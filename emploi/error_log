@@ -1,0 +1,49 @@
+[18-Nov-2023 12:25:42 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'apprentissage')' at line 2 in /home/c2194296c/public_html/configuration/fonctions.php:503
+Stack trace:
+#0 /home/c2194296c/public_html/configuration/fonctions.php(503): PDO->query('INSERT INTO emp...')
+#1 /home/c2194296c/public_html/configuration/emploiController.php(66): create_emploi('1', '4', '629132', 'Taxes d'apprent...')
+#2 /home/c2194296c/public_html/emploi/creer_emploi.php(6): require('/home/c2194296c...')
+#3 {main}
+  thrown in /home/c2194296c/public_html/configuration/fonctions.php on line 503
+[18-Nov-2023 12:31:25 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'apprentissage')' at line 2 in /home/c2194296c/public_html/configuration/fonctions.php:503
+Stack trace:
+#0 /home/c2194296c/public_html/configuration/fonctions.php(503): PDO->query('INSERT INTO emp...')
+#1 /home/c2194296c/public_html/configuration/emploiController.php(66): create_emploi('1', '4', '629132', 'Taxes d'apprent...')
+#2 /home/c2194296c/public_html/emploi/creer_emploi.php(6): require('/home/c2194296c...')
+#3 {main}
+  thrown in /home/c2194296c/public_html/configuration/fonctions.php on line 503
+[18-Nov-2023 12:31:37 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'apprentissage')' at line 2 in /home/c2194296c/public_html/configuration/fonctions.php:503
+Stack trace:
+#0 /home/c2194296c/public_html/configuration/fonctions.php(503): PDO->query('INSERT INTO emp...')
+#1 /home/c2194296c/public_html/configuration/emploiController.php(66): create_emploi('1', '4', '629132', 'Taxes d'apprent...')
+#2 /home/c2194296c/public_html/emploi/creer_emploi.php(6): require('/home/c2194296c...')
+#3 {main}
+  thrown in /home/c2194296c/public_html/configuration/fonctions.php on line 503
+[18-Nov-2023 12:31:50 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'apprentissage')' at line 2 in /home/c2194296c/public_html/configuration/fonctions.php:503
+Stack trace:
+#0 /home/c2194296c/public_html/configuration/fonctions.php(503): PDO->query('INSERT INTO emp...')
+#1 /home/c2194296c/public_html/configuration/emploiController.php(66): create_emploi('1', '4', '629132', 'Taxes d'apprent...')
+#2 /home/c2194296c/public_html/emploi/creer_emploi.php(6): require('/home/c2194296c...')
+#3 {main}
+  thrown in /home/c2194296c/public_html/configuration/fonctions.php on line 503
+[18-Nov-2023 12:32:32 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'apprentissage')' at line 2 in /home/c2194296c/public_html/configuration/fonctions.php:503
+Stack trace:
+#0 /home/c2194296c/public_html/configuration/fonctions.php(503): PDO->query('INSERT INTO emp...')
+#1 /home/c2194296c/public_html/configuration/emploiController.php(66): create_emploi('1', '4', '629132', 'Taxes d'apprent...')
+#2 /home/c2194296c/public_html/emploi/creer_emploi.php(6): require('/home/c2194296c...')
+#3 {main}
+  thrown in /home/c2194296c/public_html/configuration/fonctions.php on line 503
+[18-Nov-2023 12:35:10 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'apprentissage')' at line 2 in /home/c2194296c/public_html/configuration/fonctions.php:503
+Stack trace:
+#0 /home/c2194296c/public_html/configuration/fonctions.php(503): PDO->query('INSERT INTO emp...')
+#1 /home/c2194296c/public_html/configuration/emploiController.php(66): create_emploi('1', '4', '629132', 'Taxes d'apprent...')
+#2 /home/c2194296c/public_html/emploi/creer_emploi.php(6): require('/home/c2194296c...')
+#3 {main}
+  thrown in /home/c2194296c/public_html/configuration/fonctions.php on line 503
+[18-Nov-2023 12:39:22 Europe/Paris] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'apprentissage')' at line 2 in /home/c2194296c/public_html/configuration/fonctions.php:503
+Stack trace:
+#0 /home/c2194296c/public_html/configuration/fonctions.php(503): PDO->query('INSERT INTO emp...')
+#1 /home/c2194296c/public_html/configuration/emploiController.php(66): create_emploi('1', '4', '629132', 'Taxes d'apprent...')
+#2 /home/c2194296c/public_html/emploi/creer_emploi.php(6): require('/home/c2194296c...')
+#3 {main}
+  thrown in /home/c2194296c/public_html/configuration/fonctions.php on line 503

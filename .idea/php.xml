@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration beautifier_path="$PROJECT_DIR$/dompdf/vendor/bin/phpcbf" tool_path="$PROJECT_DIR$/dompdf/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/dompdf/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/composer" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/dompdf/vendor/symfony/polyfill-ctype" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.2">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/dompdf/phpunit.xml.dist" custom_loader_path="$PROJECT_DIR$/dompdf/vendor/autoload.php" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
